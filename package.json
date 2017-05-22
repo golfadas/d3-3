@@ -1,8 +1,8 @@
 {
-  "name": "express3",
+  "name": "d3-3",
   "version": "0.0.0",
-  "description": "Latest version of Express 3 for installing along other Express versions",
-  "main": "express3.js",
+  "description": "Latest version of d3 version 3 for installing along other d3 versions",
+  "main": "d3-3.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,13 +10,13 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/denis-sokolov/express3.git"
+    "url": "https://github.com/golfadas/d3-3.git"
   },
   "bugs": {
-    "url": "https://github.com/denis-sokolov/express3/issues"
+    "url": "https://github.com/golfadas/d3-3/issues"
   },
-  "homepage": "https://github.com/denis-sokolov/express3",
+  "homepage": "https://github.com/golfadas/d3-3",
   "dependencies": {
-    "express": "^3"
+    "d3": "^3"
   }
 }
